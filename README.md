@@ -1,3 +1,3 @@
-# ModelosCredito
+# Twitter
 
-Guardarei aqui todos os modelos de crédito que eu apresento no meu twitter
+Guardarei aqui todos os modelos que eu apresento no meu twitter
